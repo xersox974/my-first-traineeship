@@ -1,1 +1,8 @@
-<titre>Bonjour</titre>
+.container {
+    padding: 0%;
+    background-color: ghostwhite;
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+}
